@@ -1,6 +1,6 @@
 # Deploy
 
-Visit website: https://ai-summarizer-gernowoys-projects.vercel.app/
+https://ai-summarizer-gernowoys-projects.vercel.app/
 
 ## API
 
